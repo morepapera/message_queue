@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ec2911d4-75e6-40a9-9b32-f943071bb298" name="test" url="http://cpdev.host.ixiangha.com">
+        <fileTransfer host="cpdev.host.ixiangha.com" port="50518" rootFolder="/home/wangning/www/testCodes/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="50518" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
